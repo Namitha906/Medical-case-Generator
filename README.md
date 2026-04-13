@@ -27,23 +27,6 @@ unique clinical scenarios and practice diagnostic reasoning interactively.
 - Groq API (LLM Integration)
 - CSS-in-JS animations
 
-## Setup
-
-1. Clone the repo
-   git clone https://github.com/Namitha906/cliniq.git
-   cd cliniq
-
-2. Install dependencies
-   npm install
-
-3. Create a .env file in the root folder
-   VITE_GROQ_API_KEY=your_groq_api_key_here
-
-4. Run the app
-   npm run dev
-
-5. Open http://localhost:5173
-
 
 
 ## Screenshots
