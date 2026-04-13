@@ -2,8 +2,6 @@
 
 > An AI-powered synthetic medical case generator built for students, educators, and researchers.
 
-##Live Demo
-https://medical-case-generator.netlify.app/
 
 ## What is ClinIQ?
 
