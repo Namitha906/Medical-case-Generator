@@ -1,4 +1,4 @@
-# ClinIQ 🧬 — AI Medical Case Generator
+# ClinIQ 🧬 — AI Medical Case Generator(on going)
 
 > An AI-powered synthetic medical case generator built for students, educators, and researchers.
 
